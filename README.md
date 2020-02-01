@@ -14,3 +14,4 @@ This is another line in the README from the feature branch
 
 This is another line in the README from the feature branch
 >>>>>>> feature-branch-name
+This is a line added from the bug-fix branch
